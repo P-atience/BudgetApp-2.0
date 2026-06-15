@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path android:fillColor="#1976D2"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0"/>
+    <!-- Dollar coin symbol -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M54,22C36.33,22 22,36.33 22,54C22,71.67 36.33,86 54,86C71.67,86 86,71.67 86,54C86,36.33 71.67,22 54,22ZM57,71H51V67C46.92,66.21 44,63.36 44,60H48C48,62.21 50.69,64 54,64C57.31,64 60,62.21 60,60C60,57.79 57.31,56 54,56C49.58,56 46,53.19 46,50C46,46.81 48.92,43.96 53,43.17V39H59V43.17C63.08,43.96 66,46.81 66,50H62C62,47.79 59.31,46 56,46C52.69,46 50,47.79 50,50C50,52.21 52.69,54 56,54C60.42,54 64,56.81 64,60C64,63.19 61.08,66.04 57,66.83V71Z"/>
+</vector>
