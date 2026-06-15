@@ -1,4 +1,5 @@
 # 💰 Budget Tracker — Android App
+YouTube link: https://youtu.be/V41UAhgSCdo?si=cCduPgy-7A1y9Paj 
 
 A full-featured personal budget tracking app built with **Kotlin** and **Android Studio**, using Room (SQLite), MVVM architecture, MPAndroidChart, and gamification.
 
