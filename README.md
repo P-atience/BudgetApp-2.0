@@ -112,3 +112,10 @@ app/src/main/java/com/budgettracker/
 - **MPAndroidChart not found?** Ensure `jitpack.io` is in `settings.gradle` repositories
 - **Camera crashes?** The app requests permissions at runtime; allow camera access when prompted
 - **Build error on Room?** Make sure KSP plugin version matches Kotlin version in `build.gradle`
+
+- <img width="350" height="400" alt="admin dashboard give award" src="https://github.com/user-attachments/assets/6a2319d3-d392-4352-8a22-8264957d83a5" />
+<img width="350" height="400" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/71307c20-9aed-4aa0-8410-062d14681d30" />
+<img width="350" height="400" alt="Start budget quiz game" src="https://github.com/user-attachments/assets/f34ed06c-672c-40c2-b31c-f787330cc4da" />
+<img width="350" height="400" alt="Category Name validation" src="https://github.com/user-attachments/assets/db2201b3-bc29-4a70-a70b-9490134c5e40" />
+<img width="350" height="400" alt="Category Distribution" src="https://github.com/user-attachments/assets/e456cd19-aab4-499d-8807-bb2bc7a5d8fd" />
+
